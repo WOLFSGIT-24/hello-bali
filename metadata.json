@@ -1,0 +1,6 @@
+{
+  "name": "Hello Bali",
+  "description": "Hello Bali - Luxury Weekend Villas. A Bali-inspired sanctuary of pure luxury nestled seamlessly within nature's embrace, featuring private pools, Balinese gazebos, sunken firepits, outdoor bars, and 15+ curated lifestyle amenities. Located 90 mins from Electronic City, Bangalore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
